@@ -1,0 +1,10 @@
+#
+# fips-libpng
+#
+---
+exports:
+    header-dirs: 
+    - libpng
+    modules :
+        libpng: .
+
